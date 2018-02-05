@@ -1,6 +1,9 @@
+# Debuggers
 
-# Install NASM
+https://github.com/cs01/gdbgui/blob/master/README.rst
+pip install gdbgui --upgrade
 
-http://www.nasm.us/pub/nasm/releasebuilds/2.14rc0/
 
-run ./configure, make and sudo make install
+# Vagrant
+
+Vagrant starts up with gdbgui on port 5000 forwarded to the host
